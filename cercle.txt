@@ -1,3 +1,4 @@
+Modification du 18 mai 2022
 Définir les classes "Point" et "Cercle".
 Faire un programme qui crée : 
 - un cercle C situé à (7,6) de rayon 10
