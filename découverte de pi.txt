@@ -1,0 +1,7 @@
+On considére un cercle de rayon 1 et de centre (0,0).
+et le carré dans lequel se trouve le cercle (carré de côté 2).
+
+Tirer au hasard 100 000 points dans le carré.
+Calculer le nombre de points dans le cercle.
+En déduire une valeur de PI.
+
