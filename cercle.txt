@@ -1,0 +1,5 @@
+Définir les classes "Point" et "Cercle".
+Faire un programme qui crée : 
+- un cercle C situé à (7,6) de rayon 10
+- un point P situé à différent endroits
+- une fonction qui répond à la question : P est-il situé dans C ?
